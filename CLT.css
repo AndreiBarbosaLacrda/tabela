@@ -1,0 +1,24 @@
+table{
+    border-radius: 10px;
+    width: 100%;
+    height: 575px;
+    background-color: gray;
+}
+.ce{
+    background-color: chartreuse;
+}
+.ch{
+    background-color: gold;
+}
+.mat{
+    background-color: aqua;
+}
+.tec{
+    background-color: blueviolet;
+}
+.por{
+    background-color: red;
+}
+.art{
+    background-color: darkslateblue;
+}
